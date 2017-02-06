@@ -36,3 +36,5 @@ SEMS Project List
 * **ModelCrawler** [[source]](https://github.com/SemsProject/ModelCrawler) [[documentation]](https://semsproject.github.io./ModelCrawler)
   <br />Tool to crawl all models from BioModels Database and PMR2/CellML model repository
 
+
+Also refer to our [Maven repository](https://github.com/SemsProject/maven-repository) for the latest builds.
