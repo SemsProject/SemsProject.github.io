@@ -31,6 +31,10 @@ SEMS Project List
     <br />java api for COMODI
 * **MaSyMoS-Core** [[source]](https://github.com/SemsProject/masymos-core) [[documentation]](https://semsproject.github.io./masymos-core)
   <br />Graph-Database for SystemsBiology models
+  * **MaSyMoS-CLI** [[source]](https://github.com/SemsProject/masymos-cli)
+    <br />Collection of main classes to interact with MaSyMoS on the command line
+  * **MaSyMoS-Morre** [[source]](https://github.com/SemsProject/masymos-morre)
+    <br />REST interface for MaSyMoS. Allows to search/retrieve as well as push models to the database
   * **MaSyMoS-Morre-client** [[source]](https://github.com/SemsProject/MaSyMoS-Morre-client) [[documentation]](https://semsproject.github.io./MaSyMoS-Morre-client)
     <br />Java library to access the MaSyMoS-Morre REST api
 * **ModelCrawler** [[source]](https://github.com/SemsProject/ModelCrawler) [[documentation]](https://semsproject.github.io./ModelCrawler)
