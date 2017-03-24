@@ -15,6 +15,8 @@ SEMS Project List
     <br />the CellML module of BiVeS
   * **BudHat** [[source]](https://github.com/SemsProject/BudHat) [[documentation]](https://semsproject.github.io./BudHat)
     <br />Showcase for the BiVeS framework
+  * **XMLUtils** [[source]](https://github.com/SemsProject/XMLUtils) [[documentation]](https://semsproject.github.io/XMLUtils)
+    <br />a Java library to ease the daily work on XML documents
 * **CombineArchive** [[source]](https://github.com/SemsProject/CombineArchive) [[documentation]](https://semsproject.github.io/CombineArchive/)
   <br />library to read/write/create/manipulate/... CombineArchives
 * **CombineArchiveShowCase** [[source]](https://github.com/SemsProject/CombineArchiveShowCase)
