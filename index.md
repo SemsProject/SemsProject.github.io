@@ -19,7 +19,7 @@ SEMS Project List
   <br />library to read/write/create/manipulate/... CombineArchives
 * **CombineArchiveShowCase** [[source]](https://github.com/SemsProject/CombineArchiveShowCase)
   <br />Showcase showing an fully featured CombineArchive
-* **CombineArchiveWeb** [[source]](https://github.com/SemsProject/CombineArchiveWeb) [[documentation]](https://semsproject.github.io/CombineArchiveWeb/)
+* **CombineArchiveWeb** [[source]](https://github.com/SemsProject/CombineArchiveWeb) [[documentation]](https://semsproject.github.io/CombineArchiveWeb/) [[webCat]](https://cat.bio.informatik.uni-rostock.de/)
   <br />Web interface to create/modify/share CombineArchives
 * **CombineExt** [[source]](https://github.com/SemsProject/CombineExt) [[documentation]](https://semsproject.github.io/CombineExt/)
   <br />usefull tools, when working with COMBINE standards
