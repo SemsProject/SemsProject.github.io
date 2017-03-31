@@ -46,4 +46,5 @@ SEMS Project List
 * **MOST** [[source]](https://github.com/SemsProject/MOST) [[documentation]](https://semsproject.github.io./MOST) [[website]](http://most.sems.uni-rostock.de/)
   <br />*ModelStatistics* showing the evolution of biological models from [BioModels Database](https://www.ebi.ac.uk/biomodels-main/) and the [CellML Model Repository](http://models.cellml.org/cellml)
 
+Feel free to [contact](contact) us.
 Also refer to our [Maven repository](https://github.com/SemsProject/maven-repository) for the latest builds.
