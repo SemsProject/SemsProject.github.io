@@ -41,6 +41,8 @@ SEMS Project List
     <br />REST interface for MaSyMoS. Allows to search/retrieve as well as push models to the database
   * **MaSyMoS-Morre-client** [[source]](https://github.com/SemsProject/MaSyMoS-Morre-client) [[documentation]](https://semsproject.github.io./MaSyMoS-Morre-client)
     <br />Java library to access the MaSyMoS-Morre REST api
+  * **MaSyMoS-Docker** [[source]](https://github.com/SemsProject/masymos-docker) [[Docker Hub]](https://hub.docker.com/r/freakybytes/masymos/)
+    <br /> Fully featured Docker image of MaSyMoS, including Rank Aggregation and Diff/Multi-Version support
 * **ModelCrawler** [[source]](https://github.com/SemsProject/ModelCrawler) [[documentation]](https://semsproject.github.io./ModelCrawler)
   <br />Tool to crawl all models from BioModels Database and PMR2/CellML model repository
 * **MOST** [[source]](https://github.com/SemsProject/MOST) [[documentation]](https://semsproject.github.io./MOST) [[website]](http://most.sems.uni-rostock.de/)
