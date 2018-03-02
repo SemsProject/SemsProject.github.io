@@ -45,7 +45,7 @@ SEMS Project List
     <br /> Fully featured Docker image of MaSyMoS, including Rank Aggregation and Diff/Multi-Version support
 * **ModelCrawler** [[source]](https://github.com/SemsProject/ModelCrawler) [[documentation]](https://semsproject.github.io./ModelCrawler)
   <br />Tool to crawl all models from BioModels Database and PMR2/CellML model repository
-* **MOST** [[source]](https://github.com/SemsProject/MOST) [[documentation]](https://semsproject.github.io./MOST) [[website]](http://most.sems.uni-rostock.de/)
+* **MOST** [[source]](https://github.com/SemsProject/MOST) [[documentation]](https://github.com/SemsProject/MoSt/blob/master/README.md) [[website]](http://most.sems.uni-rostock.de/)
   <br />*ModelStatistics* showing the evolution of biological models from [BioModels Database](https://www.ebi.ac.uk/biomodels-main/) and the [CellML Model Repository](http://models.cellml.org/cellml)
 
 Feel free to [contact](contact) us.
